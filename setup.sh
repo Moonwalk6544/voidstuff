@@ -1,4 +1,7 @@
 #!/bin/bash
+##This script is meant for a setup of a fresh install of void linux 
+
+
 
 cd ~
 mkdir necessary
